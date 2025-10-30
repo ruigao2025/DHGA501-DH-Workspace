@@ -28,12 +28,18 @@
 - Historical Contextualization: Compare findings with historical studies on regional revolutionary networks.
 
 ## Data and Sources
-
-- Primary Source: 黄埔军校第一期同学姓名籍贯表 (PDF from 黄埔军校同学录——湖南省档案馆校编).
-- Secondary Sources:
-  Academic works on Whampoa Academy’s institutional history and regional mobilization (e.g., Jiang Tao’s research on “anti-localism”).<br>
-  
-- Tools: Python (For data cleaning and mapping), ChatGPT (for PDF-to-CSV conversion).
+### Primary Source: 
+- 黄埔军校第一期同学姓名籍贯表 (PDF from 黄埔军校同学录——湖南省档案馆校编).
+### Secondary Sources:
+- Jiang Tao. *Breaking Localism: Whampoa Military Academy, the National Revolution, and the Modern Transformation Modern Transformation of Chinese Military Education*. Tuanjie, 2024(03).
+- Wang Zhaohong. *Whampoa Military Academy Before the Northern Expedition*. Taipei: Dongda Book Company, 1987.
+- Xu Jilin. *From Periphery to Center: Whampoa Military Academy and Student Intellectuals in Modern China*. Tongzhou Gongji, 2014(8).
+- Huang Zhenliang. *The Establishment and Early Development of Whampoa Military Academy*. Taipei: Zhengzhong Press, 1993.
+- Li Changli. *The Regional Effects of the Xinhai Revolution and Whampoa Military Academy: An Investigation in Xingning, Guangdong*. Tuanjie, 2024(03).
+- Sun Xiaolei. *The Recruitment Situation of Whampoa Military Academy in Sichuan During the Great Revolution Period*. Hongyan Chunqiu, 2024(09).
+09).
+### Tools: 
+- Python (For data cleaning and mapping), ChatGPT (for PDF-to-CSV conversion).
 
 ## Expected Outputs
 
