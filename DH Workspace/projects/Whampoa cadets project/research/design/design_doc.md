@@ -30,8 +30,10 @@
 ## Data and Sources
 
 - Primary Source: 黄埔军校第一期同学姓名籍贯表 (PDF from 黄埔军校同学录——湖南省档案馆校编).
-- Secondary Sources: Academic works on Whampoa Academy’s institutional history and regional mobilization (e.g., Jiang Tao’s research on “anti-localism”).
-Tools: Python (Pandas for data cleaning, Folium/Plotly for mapping), ChatGPT (for PDF-to-CSV conversion).
+- Secondary Sources:
+  Academic works on Whampoa Academy’s institutional history and regional mobilization (e.g., Jiang Tao’s research on “anti-localism”).<br>
+  
+- Tools: Python (For data cleaning and mapping), ChatGPT (for PDF-to-CSV conversion).
 
 ## Expected Outputs
 
